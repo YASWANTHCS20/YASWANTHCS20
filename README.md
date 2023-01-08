@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **HOME SECURITY SYSTEM USING AI**
 
-- I am open to work
+- I am open to work.
 
 - 📄 Know about my experiences I am studying UG in COMPUTER SCIENCE ENGINEERING and i work on Data science projects and i have a basic ideas on web developing as i have done some skills on HTML and flutter ]
 
