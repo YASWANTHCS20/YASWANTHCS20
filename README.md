@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **yaswanth.cs20@bitsathy.ac.in**
 
-- 🔭 I’m currently working on **HOME SECURITY SYSTEM USING AI**
+- 🔭 I’m currently working on **PROBLEM SOLVING AND DATA STRUCTURES**
 
 - I am open to work.
 
-- 📄 Know about my experiences I am studying UG in COMPUTER SCIENCE ENGINEERING and i work on Data science projects and i have a basic ideas on web developing as i have done some skills on HTML and flutter ]
+- 📄 Know about my experiences I am studying UG on COMPUTER SCIENCE ENGINEERING and i work on Data science projects, Machine learning projects and i have a basic ideas on web developing as i have done some projects on HTML,CSS and flutter ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
