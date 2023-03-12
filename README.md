@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthcs20&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthcs20" /> </p>
 
-- 🌱 I’m currently Studying in **BIT (Bannariamman Institute Of Technology**
+- 🌱 I’m currently Studying in **BIT (Bannariamman Institute Of Technology)**
 
 - 🤝 I’m Studying **BE COMPUTER SCIENCE**
 
