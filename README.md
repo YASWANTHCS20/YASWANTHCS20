@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yaswanth.cs20@bitsathy.ac.in**
 
-- 🔭 I’m currently working on **PROBLEM SOLVING AND DATA STRUCTURES**
+- 🔭 I’m currently working on **(PROBLEM SOLVING AND DATA STRUCTURES)**
 
 - I am open to work.
 
