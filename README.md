@@ -38,4 +38,4 @@
  <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=yaswanthcs20&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
  
  
- <center><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" alt="c" /></center>
+ <center><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" alt="c" width="1500" /></center>
