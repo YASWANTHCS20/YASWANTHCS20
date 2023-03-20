@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Studying in **BIT (Bannariamman Institute Of Technology)**
 
-- 🤝 I’m Studying **BE COMPUTER SCIENCE**
+- 🤝 I’m Studying *BE COMPUTER SCIENCE AND ENGINEERING**
 
 - 📫 How to reach me **yaswanth.cs20@bitsathy.ac.in**
 
