@@ -13,7 +13,7 @@
 
 - I am open to work.
 
-- 📄 Know about my experiences I am studying UG on COMPUTER SCIENCE ENGINEERING and i work on Data science projects Machine learning projects and i have a basic ideas on web developing as i have done some projects on HTML,CSS and flutter ]
+- 📄 Know about my experiences I am studying UG on COMPUTER SCIENCE ENGINEERING and i work on Data science projects Machine learning projects and i have a basic ideas on web developing as i have done some projects on HTML,CSS and REACTJS 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
